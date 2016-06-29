@@ -1,0 +1,22 @@
+.card .mask {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(239,51,64,0.3);
+}
+
+
+    .mask h4 {
+        margin: 30px 15px 5px 25px;
+    }
+
+    .mask p {
+        font-size: 10pt;
+        margin: 5px 15px 30px 25px;
+    }
+
+.card-info {
+    display: inline-block;
+    width: 200px;
+    height: auto;
+}

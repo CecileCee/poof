@@ -1,0 +1,44 @@
+/*.btn-medium {
+    display: inline-block;
+    color: rgb(224,224,224);
+    width: 130px;
+    height: 34px;
+    border: solid 1px rgb(224,224,224);
+    border-radius: 90px;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 0px 0px 0px;
+}*/
+
+.btn-style {
+    color: #FFFFFF;
+    background-color: #EF3340;
+    width: 150px;
+    height: 32px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center; 
+    font-family: 'Raleway', sans-serif;
+    border: 0px;
+}
+
+.btn-filtrer {
+    width: auto;
+}
+
+    .btn-filtrer-margin {
+    margin-bottom: 40px;
+    }
+
+.btn-acheter {
+    display: inline-block;
+}
+
+    .btn-acheter-margin {
+        margin: 15px;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        font-size: 10pt;
+    }

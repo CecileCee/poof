@@ -1,0 +1,12 @@
+.card {
+    color: rgb(255,255,255);
+    width: 50%;
+    height: auto;
+    position: relative;
+}
+
+    .card img {
+        display: block;
+        width: 100%;
+        object-fit: cover;
+    }
